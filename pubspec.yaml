@@ -1,6 +1,6 @@
 name: change_package_name
 description: "Change your App Package Name with single command. Update AndroidManifest, build.gradle, MainActivity files & move MainActivity file to new directory structure automatically."
-version: 1.0.0
+version: 1.1.0
 homepage: https://nocorps.org
 repository: https://github.com/KANAGARAJ-M/change_package_name
 issue_tracker: https://github.com/KANAGARAJ-M/change_package_name/issues

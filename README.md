@@ -16,7 +16,7 @@ Change App Package Name with single command. It makes the process very easy and 
 Add Change App Package Name to your `pubspec.yaml` in `dev_dependencies:` section.
 ```yaml
 dev_dependencies: 
-  change_package_name: ^1.4.0
+  change_package_name: ^1.1.0
 ```
 or run this command
 ```bash
@@ -25,7 +25,7 @@ flutter pub add -d change_package_name
 Not migrated to null safety yet? use old version like this
 ```yaml
 dev_dependencies: 
-  change_package_name: ^1.4.0
+  change_package_name: ^1.1.0
 ```
 
 
@@ -50,9 +50,6 @@ dart run change_package_name:main com.new.package.name --ios
 Where `com.new.package.name` is the new package name that you want for your app. replace it with any name you want.
 
 ## Meta
-
-Atiq Samtia– [@AtiqSamtia](https://twitter.com/atiqsamtia) – me@atiqsamtia.com
-
 Distributed under the MIT license.
 
 [https://github.com/KANAGARAJ-M/change_package_name](https://github.com/KANAGARAJ-M/change_package_name)
